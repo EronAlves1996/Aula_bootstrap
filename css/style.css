@@ -1,0 +1,25 @@
+body{
+  font: 20px Arial, Serif;
+}
+
+.navbar{
+  background-color: #5fb404;
+}
+
+.quem-somos{
+  background-color: #b1b1e7;
+  color: white;
+}
+
+.margin{
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.bg-footer{<li class="nav-item">
+            <a href="#" class="nav-link active">Quem somos</a>
+          </li>
+
+  background-color: black;
+  color: white;
+}
